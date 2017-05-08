@@ -1,6 +1,6 @@
-# Solucion Tarea 1 - Study Jam
+# Solucion Tarea 2 - Study Jam
 
-Dentro de este repositorio se encuentra la tarea 3 del Study Jam, en el cual
+Dentro de este repositorio se encuentra la tarea 2 del Study Jam, en el cual
 se tiene una calculadora con sus funciones
 
 ## Requerimientos
