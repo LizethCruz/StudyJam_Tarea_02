@@ -13,7 +13,7 @@ se tiene una calculadora con sus funciones
 
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/Gusn8/StudyJam_Tarea_1.git
+>     $ git clone https://github.com/LizethCruz/StudyJam_Tarea_02.git
 
 Dentro de Android Studio:
 
